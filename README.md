@@ -14,7 +14,7 @@ This analysis examines the 2024 quarterly Inventory Turnover Ratio for the compa
 | Q3 | 2.37 |
 | Q4 | 5.75 |
 
-**Computed Average = 3.15**  
+**Computed Average = 3.15**
 (Automatically calculated by `analysis.py`)
 
 ---
