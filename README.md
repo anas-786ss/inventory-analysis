@@ -1,7 +1,7 @@
 # Inventory Turnover Analysis — 2024
 
 **Author / Contact:** 23f3003127@ds.study.iitm.ac.in  
-**Average Inventory Turnover:** **4.53**
+**Average Inventory Turnover:** **3.15**
 
 ## 📌 Overview
 This analysis examines the 2024 quarterly Inventory Turnover Ratio for the company and compares it with the industry benchmark target of **8**.
@@ -14,15 +14,13 @@ This analysis examines the 2024 quarterly Inventory Turnover Ratio for the compa
 | Q3 | 2.37 |
 | Q4 | 5.75 |
 
-**Computed Average = 4.53**
+**Computed Average = 3.15**
 (Automatically calculated by `analysis.py`)
-
-*Note: Q1 data (-1) was excluded from the average calculation as it indicates a data error.*
 
 ---
 
 ## 📊 Key Findings
-1. The average turnover **4.53** is below the industry target **8**.
+1. The average turnover **3.15** is significantly below the industry target **8**.
 2. Q1 turnover **-1** indicates a serious reporting or inventory error.
 3. Q3 shows major inefficiency (2.37), signalling demand misalignment.
 4. Only Q2 & Q4 show moderately healthy turnover (5.46 & 5.75).
@@ -77,7 +75,7 @@ python src/analysis.py
 ```
 
 This will:
-- Compute average turnover = **4.53**
+- Compute average turnover = **3.15**
 - Save visualization to `viz/inventory_trend.png`
 
 ---
